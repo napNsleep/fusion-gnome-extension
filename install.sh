@@ -1,6 +1,6 @@
 #!/bin/bash
 
-EXTENSION_PATH="$HOME/.local/share/gnome-shell/extensions/"
+EXTENSION_PATH="$HOME/.local/share/gnome-shell/extensions/fusion-gnome-extension@napNsleep"
 
 mkdir -p "$EXTENSION_PATH"
-mv extension.js metadata.json "$EXTENSION_PATH"
+cp extension.js metadata.json "$EXTENSION_PATH"
