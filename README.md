@@ -1,1 +1,1 @@
-A simple gnome extension that combines two extensions that disable the topbar unless in overview and disable the overview on startup. Inspired by https://github.com/fthx/no-overview and https://github.com/sonersg/gnome-hide-topbar
+A simple gnome extension that combines two extensions that disable the topbar unless in overview and disable the overview on startup, because it just looks cleaner to me that way. Inspired by https://github.com/fthx/no-overview and https://github.com/sonersg/gnome-hide-topbar
