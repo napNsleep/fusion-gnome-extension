@@ -3,7 +3,7 @@
 	"name": "Fusion",
 	"description": "A combination of two extensions that disable the topbar unless in overview and disable the overview on startup. Inspired by https://github.com/fthx/no-overview and https://github.com/sonersg/gnome-hide-topbar",
 	"shell-version": [ "49", "50", "50.1" ],
-	"url": "https://github.com/napNsleep/gnomeExtensions",
+	"url": "https://github.com/napNsleep/fusion-gnome-extension",
 	"version": 1,
 	"version-name": "1.1"
 }
